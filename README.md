@@ -1,10 +1,10 @@
 # Jeu de pipopipette
 
-Ce projet est le projet de session du cours d'Introduction à la programmation, réalisé à l'Université Laval à l'automne 2019.
+Ce projet est le projet de session de mon cours d'Introduction à la programmation, réalisé à l'Université Laval à l'automne 2019.
 Il est subdivisé en deux TP:
 ##
-* Le TP3: version en console du jeu située dans le dossier 03.In_progress/01.TP3/pipopipette/
-* Le TP4: version du jeu avec interface graphique située dans le dossier 03.In_progress/02.TP4/
+* Le TP3: version en console du jeu : branche tp3
+* Le TP4: version du jeu avec interface graphique : branche master
 
 [Règles du jeu](https://en.wikipedia.org/wiki/Dots_and_Boxes)*(en anglais)*
 
@@ -38,5 +38,5 @@ python __main__.py
 
 ## Auteurs
 
-* **Dan Krecoum**
+* [**Dan Krecoum**](https://github.com/dankrecoum)
 * **Fred Tohoundjona**
