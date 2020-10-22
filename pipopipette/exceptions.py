@@ -1,0 +1,2 @@
+class ErreurPositionsCoup(Exception):
+    pass

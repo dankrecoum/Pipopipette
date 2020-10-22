@@ -1,0 +1,12 @@
+bleu
+Humain
+Ordinateur
+2,4,V
+2,2,H
+2,2,V
+3,2,H
+2,3,H
+2,3,V
+3,3,H
+2,2,bleu
+2,3,bleu
